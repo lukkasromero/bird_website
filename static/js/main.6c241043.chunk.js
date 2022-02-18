@@ -51,7 +51,7 @@
         w = "1.10",
         x = "https://bscscan.com/",
         O = "#", ///https://hazecrypto.net/audit/bnbbeegame///
-        g = "#", ///https://dappradar.com/binance-smart-chain/high-risk/BusdBeeStake///
+        g = "https://dappradar.com/binance-smart-chain/high-risk/birdstake", ///https://dappradar.com/binance-smart-chain/high-risk/BusdBeeStake///
         v = "#",
         N = "#",
         C = "#",
