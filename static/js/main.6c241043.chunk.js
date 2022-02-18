@@ -55,7 +55,7 @@
         v = "#",
         N = "#",
         C = "#",
-        T = "#",
+        T = "https://birdstaking.gitbook.io/bird-staking/",
         P = "https://t.me/+4ofg7Q88dcViODJh",
         R = "https://t.me/+4ofg7Q88dcViODJh",
         Q = [
@@ -2397,7 +2397,7 @@
                               children: Object(ue.jsxs)("tr", {
                                 children: [
                                   Object(ue.jsx)("th", {
-                                    children: "Refferal Level ",
+                                    children: "Referal Level ",
                                   }),
                                   Object(ue.jsx)("th", {
                                     children: " Rewards",
@@ -2574,7 +2574,7 @@
                                 Object(ue.jsx)("li", {
                                   children: Object(ue.jsx)("a", {
                                     href: T,
-                                    children: "FAQ",
+                                    children: "whitepaper",
                                   }),
                                 }),
                                 Object(ue.jsx)("li", {
