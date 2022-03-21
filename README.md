@@ -1,2 +1,0 @@
-# bird_website
-website
