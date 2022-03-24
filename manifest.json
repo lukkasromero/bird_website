@@ -1,7 +1,6 @@
 {
-  "short_name": "BUSDBirdStake",
-  "name": "BUSDBirdStake",
-  "description":"BUSDBirdStake is a Yield Farming Dapp on BSC with a sustainable and long-lasting plan",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
@@ -9,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo.png",
+      "src": "logo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo.png",
+      "src": "logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
